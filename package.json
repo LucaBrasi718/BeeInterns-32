@@ -1,0 +1,26 @@
+{
+  "name": "Homework-npm",
+  "version": "1.0.0",
+  "description": "Homework #32",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucaBrasi718/BeeInterns-32.git"
+  },
+  "author": "Алхоев Рашид Русланович",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucaBrasi718/BeeInterns-32/issues"
+  },
+  "homepage": "https://github.com/LucaBrasi718/BeeInterns-32#readme",
+  "dependencies": {
+    "date-fns": "^1.30.1",
+    "nodemon": "git+https://github.com/remy/nodemon.git",
+    "ramda": "^0.27.0"
+  }
+}
